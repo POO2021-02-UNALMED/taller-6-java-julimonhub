@@ -42,4 +42,3 @@ public class Pais {
 	}
 	
 }
-© 2021 GitHub, Inc.
